@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+title: "EU cyber compliance deadlines"
+type: dataset
+authors:
+  - name: "NIS2 Templates"
+    website: https://nis-2-templates.com/
+date-released: 2026-10-09
+version: "2026-10-09"
+license: CC-BY-4.0
+repository-code: https://github.com/nis2-templates/eu-cyber-compliance-deadlines
+url: https://nis-2-templates.com/deadline-tracker/
+keywords: [NIS2, Cyber Resilience Act, DORA, AI Act, CER Directive, eIDAS 2, compliance, deadlines, EU law]
